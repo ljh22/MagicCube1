@@ -1,0 +1,14 @@
+.jiaocheng_t {
+    height: 157px;
+    border-bottom: 1px solid #ffff99;
+    text-align: center;
+}
+
+.jiaocheng_b h1 {
+    font-size: 20px;
+}
+
+.jiaocheng_b strong {
+    font-size: 20px;
+    color: blue;
+}
